@@ -6,9 +6,10 @@ What will the solution look like?
 
 Possible Features:
 - When to buy inventory taking in many factors
-- Display key indicators
 - Drop down files
+- Predicted Inventory in the next x months
 
 MVP Features:
 - One page Dashboard that will inlclude:
-1. Graph showing 6 months sales
+1. Total Sales x Months Graph
+2. 
