@@ -1,1 +1,7 @@
-nice
+What problem will it solve?
+
+What will the solution look like?
+
+Possible Features:
+
+MVP Features:
