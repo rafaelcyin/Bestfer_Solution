@@ -11,5 +11,5 @@ Possible Features:
 
 MVP Features:
 - One page Dashboard that will inlclude:
-1. Total Sales x Months Graph
-2. 
+1. Total Units Sold x Months Graph
+2. Total Sales x Months Graph
