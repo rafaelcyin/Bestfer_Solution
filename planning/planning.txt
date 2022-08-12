@@ -11,4 +11,4 @@ Possible Features:
 
 MVP Features:
 - One page Dashboard that will inlclude:
-
+1. Graph showing 6 months sales
