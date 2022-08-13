@@ -1,0 +1,20 @@
+What problem will it solve?
+- It will analyise data from Bestfer and display them as well as make certain calulcations that will aid business decision
+
+What will the solution look like?
+- It will look like an interactive dashboard on the web
+
+Possible Features:
+- When to buy inventory taking in many factors
+- Drop down files
+- Predicted Inventory in the next x months
+
+MVP Features:
+- One page Dashboard that will inlclude:
+1. Total Units Sold x Months Graph
+2. Total Sales x Months Graph
+
+BDash version 1.0
+Additional Features:
+1. Average Sales per month (graph)(add)
+2. Total Sales 6 months (graph)(add)

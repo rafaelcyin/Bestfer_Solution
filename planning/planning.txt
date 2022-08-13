@@ -13,3 +13,8 @@ MVP Features:
 - One page Dashboard that will inlclude:
 1. Total Units Sold x Months Graph
 2. Total Sales x Months Graph
+
+BDash version 1.0
+Additional Features:
+1. Average Sales per month (graph)(add)
+2. Total Sales 6 months (graph)(add)
