@@ -23,4 +23,4 @@ BDash version 1.1
 Additional Features:
 1. Format 4 figures in grid position
 2. Style the Title
-3. Fix sales by -30% because of the discount
+3. Fix price of each good by -30% because of the discount
